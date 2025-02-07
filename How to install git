@@ -1,0 +1,13 @@
+Installation for Redhat linux servers:
+                    Always start by running the command sudo yum update
+                    sudo yum install git -y                                              
+                    Note that yum is the package manger for Redhat
+Installation for ubuntu or Debian servers:
+                    Always start by running the command sudo apt update
+                    sudo apt install git -y
+                    Note that apt is the package manager for Ubuntu
+Installing git in windows:
+                    Install gitbash from
+                    https://git-scm.com/downloads
+                    after installing run the command
+                    git -v to see the version of git installed
